@@ -1,4 +1,4 @@
-# Devcamper Api
+# 2captcha solever
 > A node script that turns image 2captcha into text 
 
 ## Install Dependencies
