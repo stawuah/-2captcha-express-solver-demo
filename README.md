@@ -5,11 +5,6 @@
 
 ```
 npm i 
-```
-
-## Run App
-
-```
 
 # Run in dev mode
 npm run start
