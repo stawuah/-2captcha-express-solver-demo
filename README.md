@@ -1,4 +1,4 @@
-# 2captcha solever
+# 2captcha solver
 > A node script that turns image 2captcha into text 
 
 ## Install Dependencies
